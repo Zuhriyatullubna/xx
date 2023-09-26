@@ -1,0 +1,11 @@
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.Form_Utama.resources
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.Properties.Resources.resources
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.UC_Karyawan.resources
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.csproj.GenerateResource.Cache
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.csprojResolveAssemblyReference.cache
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\bin\Debug\SIPesanMenu.exe
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\bin\Debug\SIPesanMenu.pdb
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.exe
+D:\pemvis_21SA2107\project akhir\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.pdb
+D:\KULIAH\SEMESTER 4\Pemrograman Visual\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.exe
+D:\KULIAH\SEMESTER 4\Pemrograman Visual\SIPesanMenu\SIPesanMenu\obj\x86\Debug\SIPesanMenu.pdb
